@@ -19,18 +19,18 @@
 
                 <div style="width: 460px; height: 256px; text-align: center; background-color: #C1D0D9; margin-top: 26px;">
                     <p style="padding-top: 30px; width: 461px;">
-                        <asp:Label ID="Label1" runat="server" Text="Inser" ForeColor="Black"></asp:Label>
+                        <asp:Label ID="InserId" runat="server" Text="Inser" ForeColor="Black"></asp:Label>
                     </p>
 
                     <p style="padding-top: 10px; width: 461px;">
-                        <asp:Label ID="Label2" runat="server" Text="Delete" ForeColor="Black"></asp:Label>
+                        <asp:Label ID="DeleteId" runat="server" Text="Delete" ForeColor="Black"></asp:Label>
                     </p>
 
                     <p style="padding-top: 10px; width: 461px;">
-                        <asp:Label ID="Label3" runat="server" Text="Update" ForeColor="Black"></asp:Label>
+                        <asp:Label ID="UpdateId" runat="server" Text="Update" ForeColor="Black"></asp:Label>
                     </p>
                     <p style="padding-top: 10px; width: 461px;">
-                        <asp:Label ID="Label4" runat="server" Text="ViewAll" ForeColor="Black"></asp:Label>
+                        <asp:Label ID="ViewAllId" runat="server" Text="ViewAll" ForeColor="Black"></asp:Label>
                     </p>
                 </div>
             </div>
