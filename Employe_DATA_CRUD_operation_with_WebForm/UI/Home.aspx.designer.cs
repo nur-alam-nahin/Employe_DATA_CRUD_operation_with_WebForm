@@ -33,39 +33,39 @@ namespace Employe_DATA_CRUD_operation_with_WebForm.UI
         protected global::System.Web.UI.WebControls.Label menuId;
 
         /// <summary>
-        /// Label1 control.
+        /// InserId control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label InserId;
 
         /// <summary>
-        /// Label2 control.
+        /// DeleteId control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.Label DeleteId;
 
         /// <summary>
-        /// Label3 control.
+        /// UpdateId control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label3;
+        protected global::System.Web.UI.WebControls.Label UpdateId;
 
         /// <summary>
-        /// Label4 control.
+        /// ViewAllId control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label4;
+        protected global::System.Web.UI.WebControls.Label ViewAllId;
     }
 }
